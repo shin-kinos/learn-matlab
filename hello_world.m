@@ -75,6 +75,3 @@ for i = 1:30 % vector, from 1 to 30, incremental (i++).
     end
 end
 
-
-
-
